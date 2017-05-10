@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4":{
-            "course\base\\":"src/"
+            "course/base\\":"src/"
         }
     }
 }
