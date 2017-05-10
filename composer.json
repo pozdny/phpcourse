@@ -1,0 +1,16 @@
+{
+    "name": "pozdny/phpcourse",
+    "description": "basic description 1.0",
+    "authors": [
+        {
+            "name": "Valentina",
+            "email": "pozdny@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "base\\":"src/"
+        }
+    }
+}
